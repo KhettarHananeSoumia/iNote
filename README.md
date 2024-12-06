@@ -1,3 +1,4 @@
+![logo](https://github.com/user-attachments/assets/f6e3b4a7-ddc7-4cb4-b464-ecc02f415ac7)
 iNote - Organize Your Notes with Ease
   iNote is an intuitive and user-friendly mobile application designed to help users organize their notes by categories, ensuring quick and efficient access to information. Developed as part of the Android Mobile Apps Development training under the Développeur | ديفلوبور project.
 This project showcases the creativity and technical expertise of our student developers.
